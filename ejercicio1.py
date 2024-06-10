@@ -6,7 +6,7 @@ número (además te dice en cuantos intentos lo has acertado), si se llega al li
 había generado.
 
 Author: Jesús Montañez Rodríguez
-Fecha: 27-10-23
+Fecha: 27/10/23
 """
 
 import random
