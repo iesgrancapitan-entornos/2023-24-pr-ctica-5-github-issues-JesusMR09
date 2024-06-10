@@ -13,7 +13,7 @@ import random
 
 print("Programa para adivinar un número")
 
-number_to_guess = random.(1, 100)
+number_to_guess = random.randint(1, 100)
 counter = 10
 
 
